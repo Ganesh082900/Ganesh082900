@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ganeshpendyala2000@gmail.com**
 
-## 🌐 Connect with me:
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-pendyala-7ba5781b8) 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/g_pendyala) 
