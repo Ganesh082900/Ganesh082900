@@ -1,7 +1,9 @@
 <h1 align="center">👋 HELLO WORLD, I'm Ganesh Pendyala</h1>
 <h3 align="center">Full Stack Developer with around 2 years of experience</h3>
 <img align="right" alt="codingGif" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-<p align="left"> <a href="https://twitter.com/g_pendyala" target="blank"><img src="https://img.shields.io/twitter/follow/g_pendyala?logo=twitter&style=for-the-badge" alt="g_pendyala" /></a> </p>
+<br>
+
+![](https://komarev.com/ghpvc/?username=Ganesh082900)
 
 - 🔭 I’m currently working at **Gaian Solutions**
 
