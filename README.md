@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ganesh082900)
 
-- 🔭 I’m currently working at **Gaian Solutions**
+- 🔭 I’m currently working at **Mobius by Gaian**
 
 - 🌱 I’m currently learning **NextJS , Typescript**
 
