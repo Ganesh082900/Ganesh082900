@@ -5,9 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Ganesh082900)
 
-- 🔭 I’m currently working at **Mobius by Gaian**
+- 🔭 I’m currently working at **Beacon.Li**
 
-- 🌱 I’m currently learning **NextJS , Typescript**
+- 🌱 I’m currently learning **AWS, NextJS**
 
 - 💬 Ask me about **MERN**
 
